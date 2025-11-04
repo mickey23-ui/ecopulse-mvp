@@ -1,0 +1,1 @@
+export default function Home(){return (<div>EcoPulse MVP Landing Page</div>)}
